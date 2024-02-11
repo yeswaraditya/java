@@ -1,1 +1,1 @@
- methodCallWithSuper
+protectedAccessSpecifier
