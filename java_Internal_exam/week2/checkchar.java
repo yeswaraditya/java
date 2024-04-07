@@ -16,4 +16,14 @@ class checkchar {
        
         }
         else
-      
+        {
+            System.out.println("char is not present in string");
+
+        }
+
+
+
+        in.close();
+
+    }
+}
