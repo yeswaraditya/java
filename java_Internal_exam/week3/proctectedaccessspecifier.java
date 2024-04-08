@@ -24,4 +24,9 @@ class child extends Parent
 public class proctectedaccessspecifier {
     public static void main(String[] args)
     {
-      
+       
+        child obj=new child();
+        obj.childdisplay();
+        obj.display();
+    }
+}
